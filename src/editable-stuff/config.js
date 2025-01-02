@@ -129,7 +129,7 @@ const experiences = {
     },
     {
       role: 'Technical Assistant',
-      companylogo: require('../assets/img/Isenberg_logo.jpg'),
+      companylogo: require('../assets/img/Isenberg_logo.png'),
       date: 'Sept 2024 – Present',
     },
   ]
