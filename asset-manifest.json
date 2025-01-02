@@ -1,18 +1,19 @@
 {
   "files": {
     "main.css": "/home/static/css/main.fe927caf.css",
-    "main.js": "/home/static/js/main.d14c6ede.js",
+    "main.js": "/home/static/js/main.68b3c682.js",
     "static/js/787.4b24f717.chunk.js": "/home/static/js/787.4b24f717.chunk.js",
     "static/media/hashirshoaeb.png": "/home/static/media/hashirshoaeb.23e8b5a1f7de87f03d05.png",
     "static/media/1.png": "/home/static/media/1.fc0849433f95271a01e8.png",
-    "static/media/umass.png": "/home/static/media/umass.eeb614c38c701bb63e7b.png",
+    "static/media/umass.png": "/home/static/media/umass.3eafeaa4521275e1a1db.png",
+    "static/media/Isenberg_logo.png": "/home/static/media/Isenberg_logo.bf85d63c89bc0bf0756b.png",
     "index.html": "/home/index.html",
     "main.fe927caf.css.map": "/home/static/css/main.fe927caf.css.map",
-    "main.d14c6ede.js.map": "/home/static/js/main.d14c6ede.js.map",
+    "main.68b3c682.js.map": "/home/static/js/main.68b3c682.js.map",
     "787.4b24f717.chunk.js.map": "/home/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe927caf.css",
-    "static/js/main.d14c6ede.js"
+    "static/js/main.68b3c682.js"
   ]
 }
