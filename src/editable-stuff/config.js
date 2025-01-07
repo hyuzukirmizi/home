@@ -85,7 +85,7 @@ const leadership = {
 
 // SKILLS SECTION
 const skills = {
-  show: true,
+  show: false,
   heading: "Skills",
   hardSkills: [
     { name: "Python", value: 100 },
@@ -96,6 +96,16 @@ const skills = {
     { name: "ServiceNow", value: 90 },
     { name: "KACE", value: 80 },
     { name: "Microsoft Office", value: 100 },
+  ],
+  softSkills: [
+    { name: "Goal-Oriented", value: 80 },
+    { name: "Collaboration", value: 90 },
+    { name: "Positivity", value: 75 },
+    { name: "Adaptability", value: 85 },
+    { name: "Problem Solving", value: 75 },
+    { name: "Empathy", value: 90 },
+    { name: "Organization", value: 70 },
+    { name: "Creativity", value: 90 },
   ],
 };
 
