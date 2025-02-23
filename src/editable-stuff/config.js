@@ -43,7 +43,7 @@ const about = {
   imageSize: 375,
   message:
     "I am Haluk Yuzukirmizi. I am a sophomore pursuing a Bachelor of Science in Computer Science with a Minor in Business at the Manning College of Information and Computer Sciences. I am passionate about machine learning and artificial intelligence, I aim to further my education in the long run to develop myself more in these fields while eagerly preparing to launch my career in the industry after graduation. My biggest hobby is to travel the world.",
-  resume: "https://drive.google.com/file/d/16sQJPg-JIcKcqG-inAH5oHW8CaCCZj81/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1dNK6g3PAGfQ6TEVFHWVPq7sHlmls1SEe/view?usp=sharing",
 };
 
 // PROJECTS SECTION
