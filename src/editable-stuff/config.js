@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Haluk",
   middleName: "",
   lastName: "Yuzukirmizi",
-  message: " Passionate to solve problems that did not exist before. ",
+  message: "Driven by curiosity, I treat challenges as opportunities to expand my skills.",
   icons: [
     {
       image: "fa-github",
@@ -43,7 +43,7 @@ const about = {
   imageSize: 375,
   message:
     "I am Haluk Yuzukirmizi. I am a sophomore pursuing a Bachelor of Science in Computer Science with a Minor in Business at the Manning College of Information and Computer Sciences. I am passionate about machine learning and artificial intelligence, I aim to further my education in the long run to develop myself more in these fields while eagerly preparing to launch my career in the industry after graduation. My biggest hobby is to travel the world.",
-  resume: "https://drive.google.com/file/d/1dNK6g3PAGfQ6TEVFHWVPq7sHlmls1SEe/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1Cpf3q3JHaSFAZL7VJMKv6_tXay6i3zT1/view?usp=sharing",
 };
 
 // PROJECTS SECTION
@@ -123,14 +123,14 @@ const experiences = {
   heading: "Experiences",
   data: [
     {
-      role: 'Undergraduate Research Associate',// Here Add Company Name
-      companylogo: require('../assets/img/umass.png'),
-      date: 'Sept 2024 – Present',
+      role: 'Artificial Intelligence Intern',// Here Add Company Name
+      companylogo: require('../assets/img/CoMassachusetts.png'),
+      date: 'Apr 2025 – Aug 2025',
     },
     {
-      role: 'Technical Assistant',
-      companylogo: require('../assets/img/Isenberg_logo.png'),
-      date: 'Sept 2024 – Present',
+      role: 'Undergraduate Research Associate',// Here Add Company Name
+      companylogo: require('../assets/img/umass.png'),
+      date: 'Sept 2024 – May 2025',
     },
   ]
 }
