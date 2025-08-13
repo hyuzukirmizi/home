@@ -1,19 +1,18 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.fe927caf.css",
-    "main.js": "/home/static/js/main.ba9572ac.js",
-    "static/js/787.4b24f717.chunk.js": "/home/static/js/787.4b24f717.chunk.js",
-    "static/media/hashirshoaeb.png": "/home/static/media/hashirshoaeb.23e8b5a1f7de87f03d05.png",
-    "static/media/1.png": "/home/static/media/1.fc0849433f95271a01e8.png",
+    "main.css": "/home/static/css/main.a5a525c0.css",
+    "main.js": "/home/static/js/main.9f08e5b6.js",
+    "static/js/787.6971d1b3.chunk.js": "/home/static/js/787.6971d1b3.chunk.js",
+    "static/media/me.png": "/home/static/media/me.fc0849433f95271a01e8.png",
+    "static/media/CoMassachusetts.png": "/home/static/media/CoMassachusetts.fb5641602166bd285531.png",
     "static/media/umass.png": "/home/static/media/umass.3eafeaa4521275e1a1db.png",
-    "static/media/Isenberg_logo.png": "/home/static/media/Isenberg_logo.bf85d63c89bc0bf0756b.png",
     "index.html": "/home/index.html",
-    "main.fe927caf.css.map": "/home/static/css/main.fe927caf.css.map",
-    "main.ba9572ac.js.map": "/home/static/js/main.ba9572ac.js.map",
-    "787.4b24f717.chunk.js.map": "/home/static/js/787.4b24f717.chunk.js.map"
+    "main.a5a525c0.css.map": "/home/static/css/main.a5a525c0.css.map",
+    "main.9f08e5b6.js.map": "/home/static/js/main.9f08e5b6.js.map",
+    "787.6971d1b3.chunk.js.map": "/home/static/js/787.6971d1b3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe927caf.css",
-    "static/js/main.ba9572ac.js"
+    "static/css/main.a5a525c0.css",
+    "static/js/main.9f08e5b6.js"
   ]
 }
